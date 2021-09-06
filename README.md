@@ -13,4 +13,4 @@ chatboard_v1, server_v1
 #### 可执行程序文件
 client/chatboard_v1.exe (客户端)  
 server/server_v1.exe (服务端)  
-*问题不大的话在一台机子运行测试应该是可以的，即使实现效果很差*
+*问题不大的话在一台机子运行测试应该是可以的，即使实现效果很差(很多漏洞)*
