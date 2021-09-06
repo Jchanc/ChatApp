@@ -7,7 +7,7 @@ Qt Creator 5.9.0 + MSVC2015_32bit
 
 ### 说明
 #### 源码文件夹
-chatboard_v1, server_v1
+chatboard_v1, server_v1  
 已在代码文件中添加详细注释
 
 #### 可执行程序文件
